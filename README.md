@@ -40,7 +40,3 @@ This course will be taught using Linux, so a good understanding of UNIX is requi
 
 * [Java EE 8 High Performance [Video]](https://www.packtpub.com/application-development/java-ee-8-high-performance-video?utm_source=github&utm_medium=repository&utm_campaign=9781788473613)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789137842">https://packt.link/free-ebook/9781789137842 </a> </p>
